@@ -18,7 +18,7 @@ step-3:-->create one pipeline using AWS Service CodePipeline.
 ----->I AM CREATED ONE VIDEO FOR ALL STEP KINDLY GO THROUGH THE YOUTUBE VIDEO FOR HANDS-ON.......
 
 
-[![COMPLATE GUIDE:CI/CD PIPELINE USING AWS SERVICES](https://img.youtube.com/vi/ezOBI_7eIwY)](https://www.youtube.com/watch?v=ezOBI_7eIwY)
+[![COMPLATE GUIDE:CI/CD PIPELINE USING AWS SERVICES](https://img.youtube.com/vi/ezOBI_7eIwY/0.jpg)](https://www.youtube.com/watch?v=ezOBI_7eIwY)
 
 
 
